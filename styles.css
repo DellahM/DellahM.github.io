@@ -57,3 +57,15 @@ footer {
     bottom: 0;
     width: 100%;
 }
+
+.profile-picture {
+    margin: 20px 0;
+}
+
+.profile-picture img {
+    width: 150px; /* Adjust the size as needed */
+    height: auto; /* Maintain aspect ratio */
+    border-radius: 50%; /* Make it circular */
+    border: 3px solid #ff66b2; /* Optional: add a border */
+}
+
